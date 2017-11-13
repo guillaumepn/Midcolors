@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Midcolors</title>
 
-    <style>
+    <style> 
 		
 		html, body {
 			margin: 0;
